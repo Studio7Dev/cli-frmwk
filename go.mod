@@ -1,4 +1,4 @@
-module cli-frmwk
+module github.com/Studio7Dev/cli-frmwk
 
 go 1.19
 
